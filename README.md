@@ -1,4 +1,9 @@
 # Free or Open-sourced AI Product, Tool and Service
+## Libraries
+1. [tsai](https://github.com/timeseriesAI/tsai) (Time series and sequence model library in PyTorch)
+2. [Onnx Runtime](https://onnxruntime.ai/) (Inference optimization library)
+3. [Transformer-Deploy](https://github.com/ELS-RD/transformer-deploy) (HuggingFace transformer model deployment library)
+
 ## Tools Hub
 1. [HuggingFace](https://huggingface.co/huggingface)
 2. [Weight & Bias](https://wandb.ai/)
@@ -33,3 +38,6 @@
 1. [Scale](https://scale.com/)
 2. [Label Box](https://labelbox.com/)
 3. [Toloka](https://toloka.ai/)
+
+# Potentially Useful Articles and References
+1. [Estimating required sample size for model training with Keras - 2021/06/06](https://keras.io/examples/keras_recipes/sample_size_estimate/)
