@@ -1,4 +1,13 @@
 # Free or Open-sourced AI Product, Tool and Service
+## Tools Hub
+1. [HuggingFace](https://huggingface.co/huggingface)
+2. [Weight & Bias](https://wandb.ai/)
+3. [Allen NLP](https://allennlp.org/)
+
+## Research Hub
+1. [Papers With Code](https://paperswithcode.com/)
+2. [Semantic Scholar](https://www.semanticscholar.org/)
+
 ## Image and Video Annotation Tools
 1. [VGG annotator](https://www.robots.ox.ac.uk/~vgg/software/via/)
 2. [Label Image](https://github.com/tzutalin/labelImg)
@@ -15,6 +24,9 @@
 2. [BRAT](https://brat.nlplab.org/)
 3. [Doccano](https://doccano.herokuapp.com/)
 4. [INCEpTION](https://inception-project.github.io/)
+
+## Synthetic Dataset Generation Tools
+1. [SynthText](https://github.com/ankush-me/SynthText)
 
 # Commercial AI Product, Tool and Service
 ## Annotation Tools
